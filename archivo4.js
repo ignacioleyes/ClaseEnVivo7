@@ -1,1 +1,1 @@
-let variable1 = "Hola";
+let variable1 = "Hola, cómo estás?";
