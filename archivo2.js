@@ -1,2 +1,2 @@
 let numero = 1;
-let numeroNuevo = 2;
+let nuevoCambio = "Esto es lo que agregué";
